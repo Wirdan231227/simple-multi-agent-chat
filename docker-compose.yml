@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  agent-app:
+    build: .
+    container_name: multi_agent_system
+  
